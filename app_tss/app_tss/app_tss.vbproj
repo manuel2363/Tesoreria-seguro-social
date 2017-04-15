@@ -1,0 +1,276 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
+    <ProductVersion>
+    </ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{207A09F2-C85C-4E86-AF38-42777DBFEC8F}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <StartupObject>app_tss.My.MyApplication</StartupObject>
+    <RootNamespace>app_tss</RootNamespace>
+    <AssemblyName>app_tss</AssemblyName>
+    <FileAlignment>512</FileAlignment>
+    <MyType>WindowsForms</MyType>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <TargetFrameworkProfile>Client</TargetFrameworkProfile>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <DefineDebug>true</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DocumentationFile>app_tss.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <DefineDebug>false</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DocumentationFile>app_tss.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionExplicit>On</OptionExplicit>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionCompare>Binary</OptionCompare>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionStrict>Off</OptionStrict>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionInfer>On</OptionInfer>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Microsoft.VisualBasic.PowerPacks.Vs, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL" />
+    <Reference Include="PresentationCore" />
+    <Reference Include="PresentationFramework" />
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Data.Entity" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.DirectoryServices" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Runtime.Serialization" />
+    <Reference Include="System.Security" />
+    <Reference Include="System.ServiceProcess" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="WindowsBase" />
+  </ItemGroup>
+  <ItemGroup>
+    <Import Include="Microsoft.VisualBasic" />
+    <Import Include="System" />
+    <Import Include="System.Collections" />
+    <Import Include="System.Collections.Generic" />
+    <Import Include="System.Data" />
+    <Import Include="System.Drawing" />
+    <Import Include="System.Diagnostics" />
+    <Import Include="System.Windows.Forms" />
+    <Import Include="System.Linq" />
+    <Import Include="System.Xml.Linq" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="A_afilia_tipos.Designer.vb">
+      <DependentUpon>A_afilia_tipos.vb</DependentUpon>
+    </Compile>
+    <Compile Include="A_afilia_tipos.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="A_afili_Lote.Designer.vb">
+      <DependentUpon>A_afili_Lote.vb</DependentUpon>
+    </Compile>
+    <Compile Include="A_afili_Lote.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="A_afili_manual.Designer.vb">
+      <DependentUpon>A_afili_manual.vb</DependentUpon>
+    </Compile>
+    <Compile Include="A_afili_manual.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="a_afili_manual_part_2.Designer.vb">
+      <DependentUpon>a_afili_manual_part_2.vb</DependentUpon>
+    </Compile>
+    <Compile Include="a_afili_manual_part_2.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="conexion.vb" />
+    <Compile Include="Form1.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.Designer.vb">
+      <DependentUpon>Form1.vb</DependentUpon>
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Menu_Principal.Designer.vb">
+      <DependentUpon>Menu_Principal.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Menu_Principal.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="My Project\AssemblyInfo.vb" />
+    <Compile Include="My Project\Application.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Application.myapp</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Resources.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Settings.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <Compile Include="Param_Cargo.Designer.vb">
+      <DependentUpon>Param_Cargo.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Param_Cargo.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Param_Empleado.Designer.vb">
+      <DependentUpon>Param_Empleado.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Param_Empleado.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Param_empresa.Designer.vb">
+      <DependentUpon>Param_empresa.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Param_empresa.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Recup_Clave.Designer.vb">
+      <DependentUpon>Recup_Clave.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Recup_Clave.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Regis_Empre.Designer.vb">
+      <DependentUpon>Regis_Empre.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Regis_Empre.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Regis_empre_part_2.Designer.vb">
+      <DependentUpon>Regis_empre_part_2.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Regis_empre_part_2.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Regis_empre_part_3.Designer.vb">
+      <DependentUpon>Regis_empre_part_3.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Regis_empre_part_3.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Regis_empre_part_4.Designer.vb">
+      <DependentUpon>Regis_empre_part_4.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Regis_empre_part_4.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="S_Usu_cambio_clave.Designer.vb">
+      <DependentUpon>S_Usu_cambio_clave.vb</DependentUpon>
+    </Compile>
+    <Compile Include="S_Usu_cambio_clave.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="S_Usu_Nuevo.Designer.vb">
+      <DependentUpon>S_Usu_Nuevo.vb</DependentUpon>
+    </Compile>
+    <Compile Include="S_Usu_Nuevo.vb">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="A_afilia_tipos.resx">
+      <DependentUpon>A_afilia_tipos.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="A_afili_Lote.resx">
+      <DependentUpon>A_afili_Lote.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="A_afili_manual.resx">
+      <DependentUpon>A_afili_manual.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="a_afili_manual_part_2.resx">
+      <DependentUpon>a_afili_manual_part_2.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form1.resx">
+      <DependentUpon>Form1.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Menu_Principal.resx">
+      <DependentUpon>Menu_Principal.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="My Project\Resources.resx">
+      <Generator>VbMyResourcesResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.vb</LastGenOutput>
+      <CustomToolNamespace>My.Resources</CustomToolNamespace>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Param_Cargo.resx">
+      <DependentUpon>Param_Cargo.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Param_Empleado.resx">
+      <DependentUpon>Param_Empleado.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Param_empresa.resx">
+      <DependentUpon>Param_empresa.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Recup_Clave.resx">
+      <DependentUpon>Recup_Clave.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Regis_Empre.resx">
+      <DependentUpon>Regis_Empre.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Regis_empre_part_2.resx">
+      <DependentUpon>Regis_empre_part_2.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Regis_empre_part_3.resx">
+      <DependentUpon>Regis_empre_part_3.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Regis_empre_part_4.resx">
+      <DependentUpon>Regis_empre_part_4.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="S_Usu_cambio_clave.resx">
+      <DependentUpon>S_Usu_cambio_clave.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="S_Usu_Nuevo.resx">
+      <DependentUpon>S_Usu_Nuevo.vb</DependentUpon>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="My Project\Application.myapp">
+      <Generator>MyApplicationCodeGenerator</Generator>
+      <LastGenOutput>Application.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="My Project\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <CustomToolNamespace>My</CustomToolNamespace>
+      <LastGenOutput>Settings.Designer.vb</LastGenOutput>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <WCFMetadata Include="Service References\" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.VisualBasic.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

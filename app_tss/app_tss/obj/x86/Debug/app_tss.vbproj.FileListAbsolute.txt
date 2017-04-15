@@ -1,0 +1,40 @@
+C:\Documents and Settings\Administrador\Configuración local\Datos de programa\Temporary Projects\app_tss\bin\Debug\app_tss.exe
+C:\Documents and Settings\Administrador\Configuración local\Datos de programa\Temporary Projects\app_tss\bin\Debug\app_tss.pdb
+C:\Documents and Settings\Administrador\Configuración local\Datos de programa\Temporary Projects\app_tss\bin\Debug\app_tss.xml
+C:\Documents and Settings\Administrador\Configuración local\Datos de programa\Temporary Projects\app_tss\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrador\Configuración local\Datos de programa\Temporary Projects\app_tss\obj\x86\Debug\app_tss.Form1.resources
+C:\Documents and Settings\Administrador\Configuración local\Datos de programa\Temporary Projects\app_tss\obj\x86\Debug\app_tss.Resources.resources
+C:\Documents and Settings\Administrador\Configuración local\Datos de programa\Temporary Projects\app_tss\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\Administrador\Configuración local\Datos de programa\Temporary Projects\app_tss\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\Administrador\Configuración local\Datos de programa\Temporary Projects\app_tss\obj\x86\Debug\app_tss.exe
+C:\Documents and Settings\Administrador\Configuración local\Datos de programa\Temporary Projects\app_tss\obj\x86\Debug\app_tss.xml
+C:\Documents and Settings\Administrador\Configuración local\Datos de programa\Temporary Projects\app_tss\obj\x86\Debug\app_tss.pdb
+C:\Documents and Settings\Administrador\mis documentos\visual studio 2010\Projects\app_tss\app_tss\obj\x86\Debug\app_tss.exe
+C:\Documents and Settings\Administrador\mis documentos\visual studio 2010\Projects\app_tss\app_tss\obj\x86\Debug\app_tss.xml
+C:\Documents and Settings\Administrador\mis documentos\visual studio 2010\Projects\app_tss\app_tss\obj\x86\Debug\app_tss.pdb
+C:\Documents and Settings\Administrador\mis documentos\visual studio 2010\Projects\app_tss\app_tss\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrador\mis documentos\visual studio 2010\Projects\app_tss\app_tss\obj\x86\Debug\app_tss.Form1.resources
+C:\Documents and Settings\Administrador\mis documentos\visual studio 2010\Projects\app_tss\app_tss\obj\x86\Debug\app_tss.Resources.resources
+C:\Documents and Settings\Administrador\mis documentos\visual studio 2010\Projects\app_tss\app_tss\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\Administrador\mis documentos\visual studio 2010\Projects\app_tss\app_tss\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\Administrador\mis documentos\visual studio 2010\Projects\app_tss\app_tss\bin\Debug\app_tss.exe
+C:\Documents and Settings\Administrador\mis documentos\visual studio 2010\Projects\app_tss\app_tss\bin\Debug\app_tss.pdb
+C:\Documents and Settings\Administrador\mis documentos\visual studio 2010\Projects\app_tss\app_tss\bin\Debug\app_tss.xml
+C:\Documents and Settings\Administrador\mis documentos\visual studio 2010\Projects\app_tss\app_tss\obj\x86\Debug\app_tss.Recup_Clave.resources
+C:\Documents and Settings\Administrador\mis documentos\visual studio 2010\Projects\app_tss\app_tss\obj\x86\Debug\app_tss.Param_empresa.resources
+C:\Documents and Settings\Administrador\mis documentos\visual studio 2010\Projects\app_tss\app_tss\obj\x86\Debug\app_tss.Param_Cargo.resources
+C:\Documents and Settings\Administrador\mis documentos\visual studio 2010\Projects\app_tss\app_tss\obj\x86\Debug\app_tss.Param_Empleado.resources
+C:\Documents and Settings\Administrador\mis documentos\visual studio 2010\Projects\app_tss\app_tss\obj\x86\Debug\app_tss.Regis_Empre.resources
+C:\Documents and Settings\Administrador\mis documentos\visual studio 2010\Projects\app_tss\app_tss\obj\x86\Debug\app_tss.Menu_Principal.resources
+C:\Documents and Settings\Administrador\mis documentos\visual studio 2010\Projects\app_tss\app_tss\obj\x86\Debug\app_tss.Regis_empre_part_2.resources
+C:\Documents and Settings\Administrador\Mis documentos\Visual Studio 2010\Projects\app_tss\app_tss\obj\x86\Debug\app_tss.A_afilia_tipos.resources
+C:\Documents and Settings\Administrador\Mis documentos\Visual Studio 2010\Projects\app_tss\app_tss\obj\x86\Debug\app_tss.A_afili_Lote.resources
+C:\Documents and Settings\Administrador\Mis documentos\Visual Studio 2010\Projects\app_tss\app_tss\obj\x86\Debug\app_tss.A_afili_manual.resources
+C:\Documents and Settings\Administrador\Mis documentos\Visual Studio 2010\Projects\app_tss\app_tss\obj\x86\Debug\app_tss.a_afili_manual_part_2.resources
+C:\Documents and Settings\Administrador\Mis documentos\Visual Studio 2010\Projects\app_tss\app_tss\obj\x86\Debug\app_tss.Regis_empre_part_3.resources
+C:\Documents and Settings\Administrador\Mis documentos\Visual Studio 2010\Projects\app_tss\app_tss\obj\x86\Debug\app_tss.Regis_empre_part_4.resources
+C:\Documents and Settings\Administrador\Mis documentos\Visual Studio 2010\Projects\app_tss\app_tss\obj\x86\Debug\app_tss.S_Usu_cambio_clave.resources
+C:\Documents and Settings\Administrador\Mis documentos\Visual Studio 2010\Projects\app_tss\app_tss\obj\x86\Debug\app_tss.S_Usu_Nuevo.resources
+F:\Programas\Visual Basic\app_tss\app_tss\app_tss\obj\x86\Debug\app_tss.exe
+F:\Programas\Visual Basic\app_tss\app_tss\app_tss\obj\x86\Debug\app_tss.xml
+F:\Programas\Visual Basic\app_tss\app_tss\app_tss\obj\x86\Debug\app_tss.pdb
